@@ -1,0 +1,8 @@
+Patient ID: 6263
+Name: dwane wade
+DOB: 1963-04-01
+MobileNum: 56789
+Required Specialization: Medical dermatology
+Required Doctor: axel rose
+Cost: 50Special Notes: this is a test
+--------------------------------------
